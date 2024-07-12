@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-clove.parent</module>
+    </modules>
 </project>
