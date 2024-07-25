@@ -234,5 +234,29 @@
 			<type>String</type>
 			<isOverride>false</isOverride>
 			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-clove/MCI/jegh-esb-in/flowCode</name>
+			<value>rexel.clove.jegh</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-clove/MCI/jegh-esb-in/taskCode</name>
+			<value>MCS-REST-20</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-clove/MCI/jegh-esb-in/serviceName</name>
+			<value>clove.jegh.esb-in</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
 		</globalVariable></globalVariables>
 </repository>
